@@ -9,7 +9,7 @@ import { Component, OnInit } from '@angular/core';
   `,
   styles: []
 })
-export class ContactmanagerComponent implements OnInit {
+export class ContactManagerComponent implements OnInit {
 
   constructor() { }
 
